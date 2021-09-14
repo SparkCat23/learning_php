@@ -1,7 +1,7 @@
 <?php
 
-echo "Za WARUDO!!!"
+echo "Za WARUDO!!!";
 
-  echo "Toki wo tomare"
+  echo "Toki wo tomare";
 
 ?>
